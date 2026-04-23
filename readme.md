@@ -1,0 +1,31 @@
+# CISCO BLACK BELT TRAINNING 2025
+
+<img src=".\pics\02.jpg" height="380" width="1200">
+
+
+## Wireless Deployment
+
+* [Stage 1 - Quiz](https://github.com/lucianosilagi/bb/blob/main/01-Wireless%20Deployment/stage-01/quiz/01-Black%20Belt%20Wireless%20Deployment%20-%20STAGE1%20QUIZ.md)
+* [Stage 2 - Quiz](https://github.com/lucianosilagi/bb/blob/main/01-Wireless%20Deployment/stage-02/quiz/02-Black%20Belt%20Wireless%20Deployment%20-%20STAGE2%20QUIZ.md)
+* [Stage 3 - Quiz](https://github.com/lucianosilagi/bb/blob/main/01-Wireless%20Deployment/stage-03/quiz/03-Black%20Belt%20Wireless%20Deployment%20-%20STAGE3%20QUIZ.md)
+* [Capture the Flag](https://github.com/lucianosilagi/bb/blob/main/01-Wireless%20Deployment/ctf/04-Black%20Belt%20Wireless%20Deployment%20-%20CAPTURE%20THE%20FLAG.md)
+
+## Meraki Deployment
+* [Stage 1 - Quiz](https://github.com/lucianosilagi/bb/blob/main/02-Meraki%20Deployment/stage-01/quiz/01-Black%20Belt%20Meraki%20Deployment%20-%20STAGE1%20QUIZ.md)
+* [Stage 2 - Capture the Flag](https://github.com/lucianosilagi/bb/blob/main/02-Meraki%20Deployment/ctf/02-Black%20Belt%20Meraki%20Deployment%20-%20CAPTURE%20THE%20FLAG%20-%20STAGE2.md)
+* [Stage 3 - Capture the Flag](https://github.com/lucianosilagi/bb/blob/main/02-Meraki%20Deployment/ctf/03-Black%20Belt%20Meraki%20Deployment%20-%20CAPTURE%20THE%20FLAG%20-%20STAGE3.md)
+
+## Switching Deployment
+* [Stage 1 - Quiz](https://github.com/lucianosilagi/bb/blob/main/03-Switching%20Deployment/stage-01/quiz/01-Black%20Belt%20Switching%20Deployment%20-%20STAGE1%20QUIZ.md)
+* [Stage 2 - Quiz](https://github.com/lucianosilagi/bb/blob/main/03-Switching%20Deployment/stage-02/quiz/02-Black%20Belt%20Switching%20Deployment%20-%20STAGE2%20QUIZ.md)
+* [Stage 3 - Quiz](https://github.com/lucianosilagi/bb/blob/main/03-Switching%20Deployment/stage-03/quiz/03-Black%20Belt%20Switching%20Deployment%20-%20STAGE3%20QUIZ.md)
+
+## Cisco Catalyst Deployment
+* [Stage 1 - Quiz](https://github.com/lucianosilagi/bb/blob/main/04-Cisco%20Catalyst%20Deployment/stage-01/quiz/01-Black%20Belt%20Cisco%20Catalyst%20Deployment%20-%20STAGE1%20QUIZ.md)
+* [Stage 2 - Quiz](https://github.com/lucianosilagi/bb/blob/main/04-Cisco%20Catalyst%20Deployment/stage-02/quiz/02-Black%20Belt%20Cisco%20Catalyst%20Deployment%20-%20STAGE2%20QUIZ.md)
+* [Stage 3 - Quiz](https://github.com/lucianosilagi/bb/blob/main/04-Cisco%20Catalyst%20Deployment/stage-03/quiz/03-Black%20Belt%20Cisco%20Catalyst%20Deployment%20-%20STAGE3%20QUIZ.md)
+
+## Cisco SD WAN Deployment
+* [Stage 1 - Quiz](https://github.com/lucianosilagi/bb/blob/main/05-Cisco%20SDWAN%20Deployment/stage-01/quiz/01-Black%20Belt%20Cisco%20SDWAN%20Deployment%20-%20STAGE1%20QUIZ.md)
+* [Stage 2 - Quiz](https://github.com/lucianosilagi/bb/blob/main/05-Cisco%20SDWAN%20Deployment/stage-02/quiz/02-Black%20Belt%20Cisco%20SDWAN%20Deployment%20-%20STAGE2%20QUIZ.md)
+* [Stage 2 - Quiz](https://github.com/lucianosilagi/bb/blob/main/05-Cisco%20SDWAN%20Deployment/stage-03/quiz/03-Black%20Belt%20Cisco%20SDWAN%20Deployment%20-%20STAGE3%20QUIZ.md)
